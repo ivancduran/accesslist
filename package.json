@@ -1,0 +1,12 @@
+{
+  "name": "accesslist",
+  "version": "0.1.0",
+  "main": "Access.php",
+  "description": "Access",
+  "author": "@ivancduran",
+  "license": {
+    "type": "MIT",
+    "url": ""
+  },
+  "repository": "git@github.com:ivancduran/accesslist.git"
+}
